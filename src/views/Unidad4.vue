@@ -93,6 +93,117 @@
           </div>
         </div>
       </section>
+
+      <section>
+        <v-container>
+          <h2>
+            CONCEPTOS INFORMATIVOS, OBJETIVOS Y RECOMENDACIONES SOBRE EL
+            COVID-19
+          </h2>
+          <p>
+            Llevar a cabo los propósitos que pauta el ministerio de educación,
+            por medio de memorándum, acuerdos y lineamientos indicados. Hacer
+            que la enseñanza y por consiguiente el aprendizaje sea más eficaz,
+            esto quiere decir que la metodología está a nivel del alumnado.
+            Orientar la enseñanza teniendo presente la edad evolutiva del alumno
+            Adecuar la enseñanza a las posibilidades y necesidades del alumno.
+            Guiar la organización de las tareas escolares para evitar esfuerzos
+            inútiles, hay que hacer que la enseñanza se adecue a la realidad
+            social.
+          </p>
+          <h2>Didáctica del Internet</h2>
+          <p>
+            Por Internet se logra un e-aprendizaje y el e-profesor es el que se
+            encarga de propiciarlo. Entre las sugerencias para el uso didáctico
+            de Internet están: asegurar una buena conexión a Internet, evitar
+            distracciones, trabajar off-line, siempre que sea posible,
+            aprovechar los foros y chat's.
+          </p>
+          <h2>Didáctica on-line</h2>
+          <p>
+            La educación on-line, es una modalidad de la educación a distancia,
+            que utiliza Internet con todas sus herramientas tecnológicas de la
+            información y la comunicación para realizar el proceso de
+            enseñanza-aprendizaje. Cuando se desarrolla mediante operaciones
+            electrónicas y en las redes, se denomina educación en línea o
+            e-learning, cuando está completamente virtualizada y trabaja por
+            medio de una plataforma: un espacio o portal creado específicamente
+            para dicho fin, que contiene herramientas que apoyan el aprendizaje
+            del alumno. Puede relacionarse en ocasiones con una enseñanza
+            Semipresencial.
+          </p>
+          <h2>Fundamentación Psicológica</h2>
+          <p>
+            La escuela histórico cultural creada por Vygotsky, en la década del
+            XX del pasado siglo nos da una teoría ampliada y sistematizada por
+            sus seguidores con un enfoque coherente en cuanto a su concepción
+            del hombre, este enfoque revolucionó todas las concepciones de las
+            secuelas psicológicas anteriores al tomar como objeto al hombre en
+            sus relaciones sociales considerándolo, además, como agente de
+            cambio y transformación de sí mismo y de la realidad que lo
+            circunda.
+          </p>
+
+          <h1>La OMS recomienda lo siguiente:</h1>
+
+          <v-row>
+            <v-col md="6">
+              <v-card height="210">
+                <v-card-title> Medidas a nivel comunitario </v-card-title>
+                <v-card-text
+                  >Detección temprana, realización de pruebas y rastreo y
+                  cuarentena de los contactos; investigación de conglomerados;
+                  distanciamiento físico, medidas de higiene de manos y personal
+                  y uso de mascarillas adaptado a la edad, y protección de los
+                  grupos vulnerables. Las iniciativas comunitarias destinadas
+                  por ejemplo a corregir los falsos rumores también contribuyen
+                  de forma fundamental a reducir el riesgo de
+                  infección.</v-card-text
+                >
+              </v-card>
+            </v-col>
+            <v-col md="6">
+              <v-card height="210">
+                <v-card-title>
+                  Políticas, prácticas e infraestructura
+                </v-card-title>
+                <v-card-text
+                  >Velar por que se disponga de los recursos, las políticas y la
+                  infraestructura necesarios para proteger la salud y la
+                  seguridad de todo el personal de la escuela, incluidas las
+                  personas que corren mayor riesgo.</v-card-text
+                >
+              </v-card>
+            </v-col>
+            <v-col md="6">
+              <v-card>
+                <v-card-title>Protección y seguridad: </v-card-title>
+                <v-card-text>
+                  El cierre y la reapertura de las escuelas puede afectar a la
+                  protección y la seguridad de los alumnos y es probable que sea
+                  necesario prestar especial atención a los niños más
+                  vulnerables, por ejemplo, en el momento de recogerlos y
+                  dejarlos en la escuela.</v-card-text
+                >
+              </v-card>
+            </v-col>
+            <v-col md="6">
+              <v-card>
+                <v-card-title>
+                  Aspectos comportamentales
+                </v-card-title>
+                <v-card-text
+                  >Tener en cuenta la edad y la capacidad de los estudiantes
+                  para comprender y respetar las medidas aplicadas. Es posible
+                  que a los niños más pequeños les resulte más difícil respetar
+                  el distanciamiento físico o el uso adecuado de las
+                  mascarillas.</v-card-text
+                >
+              </v-card>
+            </v-col>
+          </v-row>
+        </v-container>
+      </section>
     </body>
   </div>
 </template>

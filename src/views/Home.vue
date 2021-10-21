@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h2 class="display-1">
+    <h1 class="display-2" justity="center" align="center">
       Influencia del Covid-19 en el proceso educativo y el Diseño de un Software
       tutorial educativo
-    </h2>
+    </h1>
     <v-container>
       <br />
       <h2>Universidad de Guayaquil</h2>
